@@ -28,3 +28,10 @@ I enjoy building scalable, real-world software solutions with strong foundations
 ---
 
 📫 **Reach me:** LinkedIn | Email  
+
+## ⚡ Fun Fact
+I believe clean code and strong fundamentals solve more problems than complex frameworks.
+
+---
+
+⭐ *If you like my work, consider starring my repositories!* 
